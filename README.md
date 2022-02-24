@@ -1,2 +1,2 @@
 # ITP-TUTORIAL-QUESTIONS
-This is answer of all questions given in itp tutorial
+These are answers of all questions given in itp tutorial
